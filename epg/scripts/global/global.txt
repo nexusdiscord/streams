@@ -1,6 +1,3 @@
-indonesiapremium3.xml
-https://www.bevy.be/bevyfiles/indonesiapremium3.xml
-
 indonesiapremium2.xml
 https://www.bevy.be/bevyfiles/indonesiapremium2.xml
 
